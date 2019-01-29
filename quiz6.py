@@ -13,6 +13,8 @@
 # +
 # 1 5
 # OUTPUT: 6
+#
+# Return None in division by zero case.
 
 
 def add(x, y):
