@@ -8,6 +8,12 @@ Use [yapf](https://code.visualstudio.com/docs/python/editing#_formatting) format
 "python.formatting.yapfArgs": ["--style", "{based_on_style: chromium, indent_width: 2}"]
 ```
 
+## Run the tests
+
+You can simply run the test checker for each quiz using this command: `python3 test_quiz[n].py`, just change the `n` to the number of the quiz.
+
+Quiz 8 and 9 don't have tests, so you can freely name the methods and the variables. They will be evaluated manually.
+
 ## Quiz 1
 
 Topic: If condition, Functions.
