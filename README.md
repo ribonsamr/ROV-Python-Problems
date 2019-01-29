@@ -20,7 +20,7 @@ Topic: If condition, Functions.
 
 Goal: Fix.
 
-[File](/quiz1.py)
+[File](/quiz1.py) - [Test file](/test_quiz1.py)
 
 ## Quiz 2
 
@@ -28,7 +28,7 @@ Topic: If condition, Functions, Arithmetic operators.
 
 Goal: Fix.
 
-[File](/quiz2.py)
+[File](/quiz2.py) - [Test file](/test_quiz2.py)
 
 ## Quiz 3
 
@@ -36,7 +36,7 @@ Topic: If condition, Functions, Arithmetic operators, Lists, For Loop.
 
 Goal: Fix.
 
-[File](/quiz3.py)
+[File](/quiz3.py) - [Test file](/test_quiz3.py)
 
 ## Quiz 4
 
@@ -44,7 +44,7 @@ Topic: If condition, Functions, Arithmetic operators, Lists, While Loop.
 
 Goal: Fix.
 
-[File](/quiz4.py)
+[File](/quiz4.py) - [Test file](/test_quiz4.py)
 
 ## Quiz 5
 
@@ -52,7 +52,7 @@ Topic: Strings, Lists, Functions, For Loop.
 
 Goal: Write.
 
-[File](/quiz5.py)
+[File](/quiz5.py) - [Test file](/test_quiz5.py)
 
 ## Quiz 6
 
@@ -60,7 +60,7 @@ Topic: Numbers, Functions, If condition, Lists.
 
 Goal: Write.
 
-[File](/quiz6.py)
+[File](/quiz6.py) - [Test file](/test_quiz6.py)
 
 ## Quiz 7
 
@@ -68,7 +68,7 @@ Topic: Dictionaries, Functions, If condition, For Loop, Lists.
 
 Goal: Write.
 
-[File](/quiz7.py)
+[File](/quiz7.py) - [Test file](/test_quiz7.py)
 
 ### Quiz 8
 
