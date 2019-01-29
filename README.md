@@ -10,7 +10,7 @@ Use [yapf](https://code.visualstudio.com/docs/python/editing#_formatting) format
 
 ## Run the tests
 
-You can simply run the test checker for each quiz using this command: `python3 test_quiz[n].py`, just change the `n` to the number of the quiz.
+Solve the problem within the quiz file and keep the main function name the same, then simply run the test checker for each quiz using this command: `python3 test_quiz[n].py`, just change the `n` to the number of the quiz.
 
 Quiz 8 and 9 don't have tests, so you can freely name the methods and the variables. They will be evaluated manually.
 
