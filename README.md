@@ -5,7 +5,7 @@
 Use [yapf](https://code.visualstudio.com/docs/python/editing#_formatting) formatter with these settings in VSCode, for both the User Settings and the Workspace Settings.
 
 ```javascript
-"python.formatting.yapfArgs": ["--style", "{based_on_style: chromium, indent_width: 2}"]
+"python.formatting.yapfArgs": ["--style", "{based_on_style: chromium}"]
 ```
 
 ## Run the tests
